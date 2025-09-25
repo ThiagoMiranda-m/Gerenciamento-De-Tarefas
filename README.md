@@ -166,7 +166,7 @@ Aqui estão todos os endpoints disponíveis na API.
 Desenvolvido por **Thiago André Neves Miranda**.
 
 -   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanm-dev/)
--   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[SEU-USUARIO-GITHUB])
+-   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThiagoMiranda-m)
 
 ## 📄 Licença
 
